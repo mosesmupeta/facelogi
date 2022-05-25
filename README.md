@@ -1,6 +1,5 @@
-<h1>Face Recognition Login System using Flask and face-recognition</h1>
-<h4>This web application is basically a system which uses face recognition to login to any account. People can use this login application for various websites or web applications. It also has provision for registering face for new entries. 
-</h4>
+This research will talk about the Face Authentication which is the study of physical characteristics being used for the identification of persons. These physical characteristics includes the various features like fingerprints, face, voice, and iris biometric device. These Face Authentication can be used to make banking systems and other system even more secure for authentication. The current systems ID gets stolen easily; passwords gets forgotten or cracked but the physical characteristics of a person cannot be stolen or hacked. This Face Authentication identification overcomes all the above.
+In this research human faces will be identified using a web Camera which is known as Face Detection the user will be identified during login and registration hence reducing on online scams and fraudulent activities and this will be a very effective technique in computer technology
 <h2>Preview</h2>
 <h2>Tools & Libraries Used</h2>
 <ul>
