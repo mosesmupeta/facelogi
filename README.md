@@ -4,7 +4,7 @@
 <h2>Preview</h2>
 <h2>Tools & Libraries Used</h2>
 <ul>
-<li><b>Python - face_recognition</b> - https://github.com/ageitgey/face_recognition</li>
+<li><b>Python - face_recognition</b> - https://github.com/mosesmupeta/face_recognition</li>
 <li><b>Python - pickle</b> - for storing serialized data</li>
 <li><b>Heroku -</b> https://www.heroku.com/</li>
 </ul>
