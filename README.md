@@ -7,25 +7,15 @@ In this research human faces will be identified using a web Camera which is know
 <li><b>Python - pickle</b> - for storing serialized data</li>
 <li><b>Heroku -</b> https://www.heroku.com/</li>
 </ul>
-<strong>Note: </strong>Please use heroku or other such platforms to deploy your application for it to work.
+<strong>Note: </strong>i used heroku platforms to deploy my application for it to work.
 <h2>Working</h2>
 <ol>
-<b>
-<li>Download the entire repository to your local system</li>
-<li>Run any terminal or cmd preferably as Administrator</li>
-<li>Run commands:</li>
-</b>
-<ul>
-<li>git init (provided you have git installed)</li>
-<li>heroku create face-rec-login (please use a diffenent name than mine)</li>
-<li>git add .</li>
-<li>git commit -m "add files"</li>
-<li>git push heroku master</li>
-</ul>
-</ol>
-<h2>Usage</h2>
+<h2>Demo </h2>
 <ul>
 <li><b>To login:</b> Go to link: https://face-rec-login.herokuapp.com</li>
 <li><b>To register:</b> Go to link: https://face-rec-login.herokuapp.com/register</li>
 </ul>
 Please not: <i>I have not used data validation on email so if you want you can add it in your program. Otherwise please enter email with caution.</i>
+  <ul>
+    <li>Information and communications university</li>
+  </ul>
