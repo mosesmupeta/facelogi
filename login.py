@@ -30,7 +30,7 @@ def login_check(email, image):
         if(results[0]):
             return "Successfully Logged in!"
         else:
-            return "Failed to Log in!"
+            return "Failed to Log in couldnt identify the face!"
     except Exception as e:
         print(e.__cause__)
         return "Image not clear! Please try again!"
